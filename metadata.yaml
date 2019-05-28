@@ -1,5 +1,8 @@
 _repo: Toveri_59562
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anzengruber, Ludwig
@@ -11,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Ludwig_Anzengruber
     - http://de.wikipedia.org/wiki/Ludwig_Anzengruber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59562#Toveri
 gutenberg_issued: '2019-05-20'
 gutenberg_type: Text
 identifiers:
