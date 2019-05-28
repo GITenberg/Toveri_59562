@@ -1,0 +1,25 @@
+_repo: Toveri_59562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anzengruber, Ludwig
+    birthdate: 1839
+    deathdate: 1889
+    gutenberg_agent_id: '847'
+    url: http://www.gutenberg.org/2009/agents/847
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ludwig_Anzengruber
+    - http://de.wikipedia.org/wiki/Ludwig_Anzengruber
+description: ''
+gutenberg_issued: '2019-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59562'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Toveri
+url: http://www.gutenberg.org/ebooks/59562
